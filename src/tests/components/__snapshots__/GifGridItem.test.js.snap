@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`pruebas a GridItem should mostrar el componente 1`] = `
+<div
+  className="card animate__fadeIn"
+>
+  <img
+    alt="Gif Example"
+    src="https:/localhost:8080/test.jpg"
+  />
+  <p>
+    Gif Example
+  </p>
+</div>
+`;
