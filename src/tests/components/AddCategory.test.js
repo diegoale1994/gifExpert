@@ -37,6 +37,6 @@ describe('Pruebas en el componente addcategory', () => {
         expect(setCategories).toHaveBeenCalled();
         expect(input.text()).toBe('');
     })
-    
+
 
 })
